@@ -1,2 +1,10 @@
 # Olfactory_2022
 A longitudinal study of olfactory function in patients with Gaucher disease and GBA1 mutation carriers
+
+Mutations in the GBA1 gene are the most common genetic risk factor for future development of parkinsonism (PD). Biallelic mutations in this gene cause the lysosomal storage disorder Gaucher disease (GD). However, most mutation carriers will never develop parkinsonism. Olfactory dysfunction is a prodromal symptom known to be present in patients with PD many years prior to developing motor dysfunction. The purpose of this study is to assess olfactory function over times in individuals with and without parkinsonism who carry at least one GBA1 mutation.
+
+180 individuals who participated in a natural history study of GD were evaluated using the University of Pennsylvania Smell Identification Test (UPSIT) during a 12-year period. Fifty-five (30.6%) of those individuals were evaluated more than once over the span of their multiple visits. These individuals had 2-6 evaluations with a time interval between testing ranging from 2-6 years.
+
+Severe olfactory dysfunction was evident in heterozygous and homozygous individuals with PD.  The evaluated individuals without parkinsonism have maintained olfactory function over time. However, at baseline the average UPSIT score of subjects in this cohort  without PD indicated borderline microsmia (average of 34).
+
+Our findings are consistent with olfactory dysfunction and its association with parkinsonism. We found that heterozygous and biallelic GBA1 mutation carriers without PD may have mild baseline olfactory dysfunction, but they have not demonstrated significant decline in olfaction over time. The reason for the baseline low scores merits further investigation and may result from other unrelated factors. However,  none of these at-risk individuals have developed parkinsonism over the 12-year course of the study. Extended follow up evaluation of these individuals will help determine if olfactory function might eventually prove useful as a disease biomarker, but presently the borderline olfactory scores observed at baseline do not appear to predict PD development.
