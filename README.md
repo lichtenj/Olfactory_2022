@@ -1,5 +1,6 @@
-# Olfactory_2022
-A longitudinal study of olfactory function in patients with Gaucher disease and GBA1 mutation carriers
+# Longitudinal evaluation of olfactory function in individuals with Gaucher disease and GBA1 mutation carriers with and without Parkinson's disease
+
+Published in Lopez et al. Front Neurol. 2022;13:1039214 (https://pubmed.ncbi.nlm.nih.gov/36330429/)
 
 Mutations in the GBA1 gene are the most common genetic risk factor for future development of parkinsonism (PD). Biallelic mutations in this gene cause the lysosomal storage disorder Gaucher disease (GD). However, most mutation carriers will never develop parkinsonism. Olfactory dysfunction is a prodromal symptom known to be present in patients with PD many years prior to developing motor dysfunction. The purpose of this study is to assess olfactory function over times in individuals with and without parkinsonism who carry at least one GBA1 mutation.
 
